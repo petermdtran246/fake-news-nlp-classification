@@ -111,7 +111,4 @@ interpretable models can be highly effective for NLP classification tasks.
 - Simple linear models remain strong baselines for text classification
 - Iterative experimentation is essential in real-world NLP projects
 
----
-
-## File Structure
 
